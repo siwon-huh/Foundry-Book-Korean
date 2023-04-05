@@ -6,7 +6,7 @@ You can access my GitBook through this URL:
 
 https://dream-academy.gitbook.io/foundry-book-korean-ver.-by/
 
-or this Notion page if you perfer:
+or this Notion page if you perfer (super slow):
 
 https://magic-iris-860.notion.site/Foundry-Book-Korean-Ver-by-dc48c3bc94214278906c6a57267b85ab
 
