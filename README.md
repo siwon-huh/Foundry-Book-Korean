@@ -2,6 +2,9 @@
 
 \*\* 의역이 다소 포함되어 있음.
 
+You can access GitBook through this URL
+https://dream-academy.gitbook.io/foundry-book-korean-ver.-by/
+
 ## Installation
 
 -   프로젝트 생성
