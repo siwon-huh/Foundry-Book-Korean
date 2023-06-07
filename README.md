@@ -2403,12 +2403,15 @@ unknown_chain = { key = "ABCDEFG", url = "<etherscan api url for this chain>" }
         -   ENS reverse lookup 수행
             ```jsx
             // 1. ENS 받아오기
-            $ cast lookup-address $ADDRESS
+            $ cast lookup-address --rpc-url <rpc_url> $ADDRESS
             // 2. ENS 받아오고 ENS로부터 주소 받아와서 교차검증
-            $ cast lookup-address --verify $ADDRESS
+            $ cast lookup-address --rpc-url <rpc_url> --verify $ADDRESS
             ```
     -   cast resolve-name
         -   ENS로 address 가져옴
+            ```jsx
+            cast namehash --rpc-url <rpc_url> vitalik.eth
+            ```
     -   cast namehash
         -   특정이름에 대해 ENS namehash 연산해줌
             ```jsx
