@@ -1,6 +1,6 @@
 # Foundry Book (Korean Ver.) by 허시원
 
-\*\* 의역이 다소 포함되어 있음. asdfkjahsdlkfhadsf
+\*\* 의역이 다소 포함되어 있음.
 
 You can access my GitBook through this URL:
 
